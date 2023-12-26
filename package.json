@@ -20,7 +20,6 @@
     "s": "npm run solution",
     "prepare": "tt-cli prepare-stackblitz",
     "e-01": "tt-cli run 01",
-    "s-01": "tt-cli run 01 --solution",
     "e-02": "tt-cli run 02",
     "s-02": "tt-cli run 02 --solution",
     "e-03": "tt-cli run 03",
